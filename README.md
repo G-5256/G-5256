@@ -1,4 +1,4 @@
-### Hey..Hello..Hii..there, I'm Gaurav Suryavanshi {{my web [website] }}👋
+### Hey..Hello..Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
 
 [![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://g-5256.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsuryvnshi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgauravsuryvnshi&screen_name=gauravsuryvnshi)
@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="G-5256's GitHub Stats" src="https://github-readme-stats.G-5256.vercel.app/api?username=G-5256&show_icons=true&hide_border=true" />
+  <img align="left" alt="G5256's GitHub Stats" src="https://github-readme-stats.G5256.vercel.app/api?username=G5256&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -53,4 +53,5 @@
 [twitter]: https://twitter.com/gauravsuryvnshi
 [instagram]: https://instagram.com/gaurav.suryvnshi
 [linkedin]: https://www.linkedin.com/in/gaurav-suryavanshi-804a97208
+  
 
