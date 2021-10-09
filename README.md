@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?id=1hnd1WepcqqyCOmRDdH2OLmjyTpjeJFTo" >
+
 ### Hey..Hello..Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
 
 [![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://g-5256.github.io/portfolio/)
