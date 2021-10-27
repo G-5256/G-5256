@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1hnd1WepcqqyCOmRDdH2OLmjyTpjeJFTo" >
+<! ---<img src="https://drive.google.com/uc?id=1hnd1WepcqqyCOmRDdH2OLmjyTpjeJFTo" >  --->
 
 ### Hey..Hello..Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
 
