@@ -1,6 +1,5 @@
-<! ---<img src="https://drive.google.com/uc?id=1hnd1WepcqqyCOmRDdH2OLmjyTpjeJFTo" >  --->
 
-### Hey..Hello..Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
+# Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
 
 [![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://g-5256.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsuryvnshi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgauravsuryvnshi&screen_name=gauravsuryvnshi)
