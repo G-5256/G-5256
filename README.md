@@ -1,12 +1,12 @@
 
-# Hii..there, I'm gaurav suryavanshi {{my web [website] }}👋
+# Hii..there👋, I'm gaurav suryavanshi {{my web [Website] }}👋
 
 [![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://linktr.ee/GauravSuryavanshi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsuryvnshi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgauravsuryvnshi&screen_name=gauravsuryvnshi)
 
 ## I'm a coder||developer||Content_creator!!
 
-- 🌱 I’m currently exploring|| Learning development.
+- 🌱 I’m currently exploring||development|| Rbotics Nortic.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Explore||Contribute more to Open Source projects
 - ⚡ Fun fact: I love DRAWING for me Only😅😅 ALSO<chess> 
