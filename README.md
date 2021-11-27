@@ -1,7 +1,8 @@
 
-# Hii..there👋, I'm gaurav suryavanshi {{my web [Website] }}👋
+# Hii..there👋, I'm gaurav suryavanshi
+<!---
+[![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://linktr.ee/GauravSuryavanshi)--->
 
-[![Website](https://img.shields.io/website?label=g-5256.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fg-5256.github.io/portfolio/)](https://linktr.ee/GauravSuryavanshi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsuryvnshi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgauravsuryvnshi&screen_name=gauravsuryvnshi)
 
 ## I'm a coder||developer||Content_creator!!
@@ -27,7 +28,7 @@
 [<img  align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 <br />
 <br />
-
+<!---
 ---
 ### 📺 Latest YouTube Videos
 
@@ -50,7 +51,7 @@
 
 </details>
 
-[website]: https://g-5256.github.io/portfolio/
+[website]: https://g-5256.github.io/portfolio/   --->
 [twitter]: https://twitter.com/gauravsuryvnshi
 [instagram]: https://instagram.com/gaurav.suryvnshi
 [linkedin]: https://www.linkedin.com/in/gaurav-suryavanshi-804a97208
