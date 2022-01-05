@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsuryvnshi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgauravsuryvnshi&screen_name=gauravsuryvnshi)
 
-## I'm a coder||developer||Content_creator!!
+## I'm a coder||developer||Content_creator!
 
 - 🌱 I’m currently exploring||development|| Rbotics Nortic.
 - 👯 I’m looking to collaborate with other content creators.
