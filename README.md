@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently exploring||development|| Rbotics Nortic.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Explore||Contribute more to Open Source projects
 - ⚡ Fun fact: I love DRAWING for me Only😅😅 ALSO<chess> 
 
 ### FOLLOW Back💯:
