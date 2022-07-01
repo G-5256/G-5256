@@ -13,10 +13,10 @@
 
 ### FOLLOW Back💯:
 
-[<img align="left" alt="https://github.com/G-5256" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gauravsuryvnshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Gaurav_Suryavanshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gaurav.suryvnshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://github.com/G-5256" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img align="left" alt="gauravsuryvnshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+[<img align="left" alt="Gaurav_Suryavanshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="gaurav.suryvnshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
@@ -27,8 +27,7 @@
 [<img  align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 <br />
   <hr> 
-[Resume-Gaurav-Suryavanshi.pdf] (https://github.com/G-5256/github-bot/files/7773859/Resume-Gaurav-Suryavanshi.pdf)
-<br />
+
 <!---
 ---
 ### 📺 Latest YouTube Videos
